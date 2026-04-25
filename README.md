@@ -1,7 +1,7 @@
 # Visual-Block
-🔥 THIS IS FINE!
-A mini fun project from CS320 Tanigile User Interfaces!
-A web-based Augmented Reality experience built with Visual Blocks for Google. This project uses real-time ML to place you inside the iconic "This Is Fine" meme, complete with the hat, the flames, and the general sense of impending doom :P
+🔥 THIS IS FINE!<br>
+A mini fun project from CS320 Tanigile User Interfaces!<br>
+A web-based Augmented Reality experience built with Visual Blocks for Google. This project uses real-time ML to place you inside the iconic "This Is Fine" meme, complete with the hat, the flames, and the general sense of impending doom :P <br>
 
 #How to Use this Repo
 Import to Visual Blocks
